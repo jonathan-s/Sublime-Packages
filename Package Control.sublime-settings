@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Glue",
+		"HTML",
+		"HTML-CSS-JS Prettify",
+		"HtmlTidy",
+		"Jedi - Python autocompletion",
+		"Jinja2",
+		"LaTeX Word Count",
+		"LiveReload",
+		"LoremIpsum",
+		"MarkdownEditing",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PyV8",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Unittest (python)",
+		"WordCount"
+	]
+}
